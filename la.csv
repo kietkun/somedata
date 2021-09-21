@@ -1,0 +1,21 @@
+STT,Name,Pubchem CID,Smiles
+1,alpha-pinene,6654,CC1=CCC2CC1C2(C)C
+2,camphene,6616,CC1(C2CCC(C2)C1=C)C
+3,beta-myrcene,31253,CC(=CCCC(=C)C=C)C
+4,eucalyptol,2758,CC1(C2CCC(O1)(CC2)C)C
+5,trans-beta-ocimene,5281553,CC(=CCC=C(C)C=C)C
+6,fenchone,14525,CC1(C2CCC(C2)(C1=O)C)C
+7,fenchol,15406,CC1(C2CCC(C2)(C1O)C)C
+8,(+)-2-Bornanone,159055,CC1(C2CCC1(C(=O)C2)C)C
+9,camphol,6552009,CC1(C2CCC1(C(C2)O)C)C
+10,estragole,8815,COC1=CC=C(C=C1)CC=C
+11,bornyl acetate,6448,CC(=O)OC1CC2CCC1(C2(C)C)C
+12,beta-elemene,6918391,CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C
+13,caryophyllene,5281515,CC1=CCCC(=C)C2CC(C2CC1)(C)C
+14,alpha-bergamotene,86608,CC1=CCC2CC1C2(C)CCC=C(C)C
+15,alpha-cubebene,442359,CC1CCC(C2C13C2C(=CC3)C)C(C)C
+16,gamma-elemene,6432312,CC(=C1CCC(C(C1)C(=C)C)(C)C=C)C
+17,alpha-guaiene,5317844,CC1CCC(CC2=C1CCC2C)C(=C)C
+18,gamma-muurolene,12313020,CC1=CC2C(CC1)C(=C)CCC2C(C)C
+19,delta-cadinol,3084311,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+20,gamma-cadinene,92313,CC1=CC2C(CC1)C(=C)CCC2C(C)C
